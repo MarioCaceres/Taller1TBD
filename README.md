@@ -1,4 +1,5 @@
-# Taller1TBD: Java ee
+# Taller1TBD: Java ee Sakila.
 
-Mario Cáceres/n
-Sebastián Cerda
+Mario Cáceres.
+
+Sebastián Cerda.
